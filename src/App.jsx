@@ -21,7 +21,7 @@ function App() {
     return (
         <>
             <Header></Header>
-            <main className="md:flex justify-between max-w-6xl mx-auto">
+            <main className="md:flex justify-between max-w-6xl lg:mx-auto mx-5">
                 <Blogs handleMarkAsRead={handleMarkAsRead}  hanleAddToBookmark={hanleAddToBookmark}></Blogs>
                 <Bookmarks bookmark={bookmark} readingTime={readingTime}></Bookmarks>
             </main>
