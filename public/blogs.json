@@ -38,15 +38,5 @@
         "posted_date": "2023-09-10",
         "reading_time": 75,
         "hashtags": ["cooking", "recipes", "culinary"]
-    },
-    {
-        "id": "5",
-        "cover": "https://i.ibb.co/4JjL4hB/keyboard-tea-cup-apple-office-stationeries-black-background.jpg",
-        "title": "City of Dreams",
-        "author": "Emily Roberts",
-        "author_img": "https://i.ibb.co/PZWvKk0/mens-hair-cuts.jpg",
-        "posted_date": "2023-09-09",
-        "reading_time": 50,
-        "hashtags": ["romance", "city life", "love"]
     }
 ]
