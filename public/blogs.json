@@ -1,0 +1,52 @@
+[
+    {
+        "id": "1",
+        "cover": "https://i.ibb.co/4JjL4hB/keyboard-tea-cup-apple-office-stationeries-black-background.jpg",
+        "title": "The Secret of Shadows",
+        "author": "Eleanor Smith",
+        "author_img": "https://i.ibb.co/PZWvKk0/mens-hair-cuts.jpg",
+        "posted_date": "2023-09-13",
+        "reading_time": 45 ,
+        "hashtags": ["mystery", "adventure", "bestseller"]
+    },
+    {
+        "id": "2",
+        "cover": "https://i.ibb.co/4JjL4hB/keyboard-tea-cup-apple-office-stationeries-black-background.jpg",
+        "title": "Lost in Time",
+        "author": "John Anderson",
+        "author_img": "https://i.ibb.co/PZWvKk0/mens-hair-cuts.jpg",
+        "posted_date": "2023-09-12",
+        "reading_time":60,
+        "hashtags": ["science fiction", "time travel", "epic"]
+    },
+    {
+        "id": "3",
+        "cover": "https://i.ibb.co/4JjL4hB/keyboard-tea-cup-apple-office-stationeries-black-background.jpg",
+        "title": "The Enchanted Garden",
+        "author": "Sarah Davis",
+        "author_img": "https://i.ibb.co/PZWvKk0/mens-hair-cuts.jpg",
+        "posted_date": "2023-09-11",
+        "reading_time": 30,
+        "hashtags": ["fantasy", "magic", "children"]
+    },
+    {
+        "id": "4",
+        "cover": "https://i.ibb.co/4JjL4hB/keyboard-tea-cup-apple-office-stationeries-black-background.jpg",
+        "title": "The Art of Cooking",
+        "author": "Michael Johnson",
+        "author_img": "https://i.ibb.co/PZWvKk0/mens-hair-cuts.jpg",
+        "posted_date": "2023-09-10",
+        "reading_time": 75,
+        "hashtags": ["cooking", "recipes", "culinary"]
+    },
+    {
+        "id": "5",
+        "cover": "https://i.ibb.co/4JjL4hB/keyboard-tea-cup-apple-office-stationeries-black-background.jpg",
+        "title": "City of Dreams",
+        "author": "Emily Roberts",
+        "author_img": "https://i.ibb.co/PZWvKk0/mens-hair-cuts.jpg",
+        "posted_date": "2023-09-09",
+        "reading_time": 50,
+        "hashtags": ["romance", "city life", "love"]
+    }
+]
