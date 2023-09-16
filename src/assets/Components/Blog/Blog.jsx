@@ -1,4 +1,4 @@
-import PropTypes from 'prop-types'
+/* eslint-disable react/prop-types */
 import { FaBookmark} from 'react-icons/fa';
 const Blog = ({blog , handleAddToBookmark , handleMarkAsRead}) => {
     const {title , cover , author , author_img , reading_time , posted_date , hashtags } = blog;
@@ -30,10 +30,6 @@ const Blog = ({blog , handleAddToBookmark , handleMarkAsRead}) => {
 };
 
 
-
-Blog.PropTypes = {
-    blog: PropTypes.object.isRequired
-}
 
 
 
